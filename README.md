@@ -75,15 +75,14 @@
 </div>
 
 ---
-
 ### GitHub Stats (Live Auto-Updating)
 <div align="center">
-  <img src="assets/langs.svg" width="48%"/>
-  <img src="assets/stats.svg" width="48%"/>
+  <img src="assets/langs.svg" alt="Top Languages" width="48%"/>
+  <img src="assets/stats.svg" alt="GitHub Stats" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="assets/streak.svg" width="100%"/>
+  <img src="assets/streak.svg" alt="Streak Stats" width="100%"/>
 </div>
 
 ---
