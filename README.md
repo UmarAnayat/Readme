@@ -78,12 +78,12 @@
 
 ### GitHub Stats (Live Auto-Updating)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmarAnayat&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=UmarAnayat&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="assets/langs.svg" width="48%"/>
+  <img src="assets/stats.svg" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarAnayat&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%"/>
+  <img src="assets/streak.svg" width="100%"/>
 </div>
 
 ---
