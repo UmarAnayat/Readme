@@ -1,0 +1,27 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Stats
+        run: |
+          mkdir -p assets
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs?username=UmarAnayat&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" -o assets/langs.svg
+          curl -s "https://github-readme-stats.vercel.app/api?username=UmarAnayat&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o assets/stats.svg
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=UmarAnayat&theme=tokyonight&hide_border=true" -o assets/streak.svg
+
+      - name: Commit & Push
+        run: |
+          git config user.name "Auto Bot"
+          git config user.email "bot@github.com"
+          git add assets/*.svg
+          git commit -m "Updated stats" || echo "No changes"
+          git push
