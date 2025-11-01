@@ -84,7 +84,6 @@
 <div align="center">
   <img src="assets/streak.svg" alt="Streak Stats" width="100%"/>
 </div>
-
 ---
 
 ### Contribution Snake (Auto-Generated)
