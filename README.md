@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h1>Hi 👋, I'm Genius Umar</h1>
+  <h1>Hi 👋, I'm Umar Anayat</h1>
   <h3>A Passionate Software Engineer from Pakistan</h3>
   <p><strong>Flutter Developer | 2+ Years | Dart & Firebase Expert</strong></p>
 
@@ -27,7 +27,7 @@
 
 ### Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/geniusumar">
+  <a href="www.linkedin.com/in/umaranayat">
     <img src="https://img.shields.io/badge/LinkedIn-Genius%20Umar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/geniusumar">
