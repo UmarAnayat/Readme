@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Yeh zaroori hai push ke liye
+      contents: write  # Yeh line add ki – ab push allowed!
     steps:
       - uses: actions/checkout@v4
 
