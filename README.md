@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,18,24&height=220&section=header&text=Genius%20Umar&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,18,24&height=220&section=header&text=Umar%20Anayat&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header"/>
   
-  <h1>Hi 👋, I'm <a href="https://github.com/UmarAnayat"><b>Genius Umar</b></a> 🚀</h1>
+  <h1>Hi 👋, I'm <a href="https://github.com/UmarAnayat"><b>Umar Anayat</b></a> 🚀</h1>
   <h3><i>A passionate Software Engineer from Pakistan | Dart & Flutter Lover</i></h3>
   
   <p><code>Code is poetry, and Flutter makes it dance! ✨</code></p>
