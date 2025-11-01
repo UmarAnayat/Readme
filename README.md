@@ -1,20 +1,19 @@
-<!-- 🌈 Umar Anayat – Full Stack Flutter Developer -->
+<!-- 🌐 Umar Anayat | AI-Powered Full-Stack Flutter Developer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Umar%20Anayat&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:60EFFF&height=200&section=header&text=Umar%20Anayat&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 
-<h2 style="font-weight:700;">👋 Hey, I'm Umar Anayat</h2>
-<h3>💙 Full Stack Flutter Developer | Firebase Expert | UI/UX Architect</h3>
-<p><i>Creating next-gen mobile experiences — blending design, performance & scalability.</i></p>
+<h2 style="font-weight:700;">🤖 AI-Powered Full-Stack Flutter Developer</h2>
+<h4>Crafting Scalable, Cloud-Integrated Cross-Platform Apps</h4>
 
 <p>
 <a href="mailto:geniusumar08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/umar-anayat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/geniusumar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/UmarAnayat"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/UmarAnayat"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=💙+Flutter+%7C+Dart+%7C+Firebase;🎨+UI%2FUX+Design+%26+Animations;⚡+Clean+Architecture+%7C+Performance;🚀+Building+Modern+Apps+Since+2019" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+AI-Powered+Flutter+Engineer;☁️+Full-Stack+App+Development;📱+Cross-Platform+Innovation;💡+Smart+Cloud+Integrations" alt="Typing Animation"/>
 
 </div>
 
@@ -24,10 +23,13 @@
 
 ### 🧠 About Me  
 
-🚀 Passionate Flutter developer with **4+ years** of experience building clean, scalable mobile apps.  
-☁️ Specialized in **Flutter + Firebase** ecosystems with deep understanding of UI/UX & app architecture.  
-🎯 Love crafting **pixel-perfect**, **high-performance**, and **user-first** applications.  
-🌍 Based in Pakistan — collaborating globally on modern app projects.  
+I am a **dynamic Full-Stack Flutter Developer** specializing in **AI-driven, scalable cross-platform applications** that meet the evolving demands of today’s tech landscape.  
+
+With hands-on experience at **Berisco Technologies**, I’ve built and deployed **cloud-based Flutter apps** and **API-integrated systems**, leveraging **Dart, Firebase**, and modern full-stack tools like **PHP, MySQL, and Supabase**.  
+
+My focus is on transforming ideas into **intelligent, high-performance mobile experiences**, merging **cutting-edge AI** with solid backend logic to build next-generation digital products.  
+
+Passionate about innovation, I regularly engage in **workshops, AI research**, and **coding initiatives** to stay ahead in the fast-moving world of software development.
 
 </div>
 
@@ -35,16 +37,29 @@
 
 <div align="center">
 
-### ⚙️ Tech Arsenal  
+### ⚙️ Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,figma,androidstudio,vscode,git,github,kotlin,postman&theme=dark" height="90"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,php,mysql,nodejs,figma,androidstudio,vscode,git,github,python,tensorflow,openai,postman" height="95"/>
 
 <p>
-💡 <b>Frameworks:</b> Flutter (Riverpod, Provider, GetX)  
-🔥 <b>Backend:</b> Firebase Auth • Firestore • Functions • FCM • Node.js  
-🎨 <b>Design:</b> Figma → Flutter, motion design, adaptive layouts  
-⚙️ <b>DevOps:</b> Fastlane • GitHub Actions • CI/CD • Play Store Deployments  
+💻 <b>Languages:</b> Dart, PHP, Python, SQL  
+📱 <b>Frameworks:</b> Flutter, Riverpod, GetX, Firebase  
+☁️ <b>Backend:</b> Supabase, MySQL, Cloud Firestore, REST APIs  
+🧠 <b>AI & Automation:</b> TensorFlow Lite, OpenAI APIs, LangChain  
+🎨 <b>Design Tools:</b> Figma, Rive, Lottie, Adobe XD  
+⚙️ <b>DevOps:</b> GitHub Actions, Fastlane, CI/CD, Play Store Deployments  
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Services  
+
+🚀 Application Development • Cloud Application Development • Mobile Application Development  
+📱 Android Development • iOS Development • Web Development  
 
 </div>
 
@@ -54,17 +69,37 @@
 
 ### 🌟 Featured Projects  
 
-**📱 Umar Learning App**  
-_Interactive kids learning platform (Flutter + Firebase)_  
-🔗 [Play Store](#) • [GitHub Repo](#)
+#### ✈️ **Flight App**
+AI-powered flight booking and tracking system with real-time data integration and elegant UI.  
+🔗 Flutter • Firebase • REST APIs • Realtime Updates  
 
-**🌤️ EnviroTrack**  
-_IoT-based environmental monitoring system with live dashboards_  
-🔗 [Docs](#) • [Repo](#)
+#### 🐾 **Pet Social App**
+A social media platform for pet owners, featuring chat, photo sharing & AI-based pet breed recognition.  
+🔗 Flutter • Firebase • AI Vision  
 
-**🔮 Tarot Reading App**  
-_Animated spiritual reading app featuring real-time Lottie cards_  
-🔗 [Live Demo](#) • [GitHub Repo](#)
+#### 🔮 **Tarot Reading App**
+Interactive tarot experience with animated Lottie cards, real-time data sync, and smart recommendations.  
+🔗 Flutter • Firebase • Cloud Functions  
+
+#### 🔐 **Ntrix Security App**
+Smart security management system with live monitoring, alert automation, and encrypted cloud storage.  
+🔗 Flutter • Supabase • MQTT • Realtime  
+
+#### ☁️ **GoDrive / MegaDrive**
+Cloud storage solution built with encryption, AI-driven file categorization, and performance-optimized sync.  
+🔗 Flutter • Firebase Storage • Node.js  
+
+#### 🎓 **Visual Kids Learning App**
+Gamified learning platform for children integrating animation, quizzes, and progress tracking dashboards.  
+🔗 Flutter • Firebase • UI/UX Motion Design  
+
+#### 🛒 **E-Commerce App**
+Complete online shopping experience with admin dashboard, real-time inventory & payment gateway integration.  
+🔗 Flutter • Firebase • Stripe API  
+
+#### 📖 **Quran Companion App**
+Quran reading & learning app with AI-based Tafsir search and recitation tracking.  
+🔗 Flutter • Firebase • ML Integration  
 
 </div>
 
@@ -72,7 +107,7 @@ _Animated spiritual reading app featuring real-time Lottie cards_
 
 <div align="center">
 
-### 📊 GitHub Overview  
+### 📊 GitHub Stats  
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=UmarAnayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarAnayat&theme=tokyonight&hide_border=true"/>
@@ -85,7 +120,7 @@ _Animated spiritual reading app featuring real-time Lottie cards_
 
 <div align="center">
 
-### 🌱 Activity & Growth  
+### 📈 Activity Graph  
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmarAnayat&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FFFFFF&custom_title=Umar%20Anayat%20Activity%20Graph" height="180"/>
 
@@ -105,21 +140,21 @@ _Animated spiritual reading app featuring real-time Lottie cards_
 
 <div align="center">
 
-### 🤝 Let’s Collaborate  
+### 🤝 Let's Connect  
 
-💼 Open to:  
-🌍 Full-time Flutter Developer Roles  
-🛠 Freelance Mobile App Projects  
-🤝 Open Source Collaboration  
-🎯 Technical Mentorship & Code Reviews  
+💼 Open for:  
+🔹 AI-powered Flutter app collaborations  
+🔹 Freelance & full-time opportunities  
+🔹 Technical mentorship & open-source  
 
-📬 Reach me at: **[geniusumar08@gmail.com](mailto:geniusumar08@gmail.com)**  
-or connect via **[LinkedIn](https://linkedin.com/in/umar-anayat)**  
+📬 Email: **[geniusumar08@gmail.com](mailto:geniusumar08@gmail.com)**  
+🌐 LinkedIn: **[linkedin.com/in/umar-anayat](https://linkedin.com/in/umar-anayat)**  
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60EFFF,100:06B6D4&height=120&section=footer"/>
 </div>
+
