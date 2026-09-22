@@ -1,127 +1,214 @@
-<!-- 🌐 Umar Anayat | AI-Powered Full-Stack Flutter Developer -->
+<!-- =========================================================
+  Umar Anayat — Instagram-style Heavy Professional Profile
+  Brand: #55AFD2 | Deep Navy
+========================================================= -->
+
 <div align="center">
+  <img src="./assets/banner.png" alt="Umar Anayat — Flutter Developer" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABEFF,100:00FFD1&height=200&section=header&text=Umar%20Anayat&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
+<br/>
 
-<h2>🤖 AI-Powered Full-Stack Flutter Developer</h2>
-<p><b>Building Scalable • Cloud-Integrated • Cross-Platform Experiences</b></p>
+<div align="center">
+  <a href="https://www.umaranayat.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=55AFD2&center=true&vCenter=true&width=720&height=55&lines=Hey%2C+I'm+Umar+Anayat+%F0%9F%91%8B;Flutter+%26+Mobile+App+Developer;I+build+apps+that+feel+premium;Clean+Code.+Smooth+UI.+Modern+Craft." alt="Typing SVG" />
+  </a>
+</div>
 
-<p>
-<a href="mailto:geniusumar08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/umar-anayat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/geniusumar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/UmarAnayat"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://www.umaranayat.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-umaranayat.com-55AFD2?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://linkedin.com/in/umaranayat"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-umaranayat-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="mailto:iumaranayat@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact_Me-EA4335?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/UmarAnayat"><img src="https://img.shields.io/badge/%E2%AD%90_GitHub-UmarAnayat-181717?style=for-the-badge&labelColor=0D1117" /></a>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00E0FF&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Flutter+Engineer;☁️+Cloud+App+Development;🤖+AI-Integrated+Mobile+Solutions;💡+Creative+Tech+Innovator" alt="Typing Animation"/>
-
+<br/>
+<div align="center">
+  <img src="./assets/divider.png" alt="" width="70%" />
 </div>
 
 ---
 
-### 🧠 About Me  
-
-I’m a **Full-Stack Flutter Developer** passionate about designing **AI-powered, scalable cross-platform apps** for a rapidly evolving digital world.  
-
-With **4+ years of experience**, including time at **Berisco Technologies**, I’ve delivered production-ready mobile and web applications powered by **Dart, Firebase, PHP, MySQL, and Supabase**.  
-
-My work merges **intelligent automation, cloud infrastructure**, and **modern Flutter architecture** to build fast, adaptive, and future-proof software. I thrive on transforming complex ideas into clean, impactful digital products.  
-
----
-
-### ⚙️ Tech Stack  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="28" /> About Me
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,php,mysql,nodejs,figma,androidstudio,vscode,git,github,python,tensorflow,openai,postman" height="95"/>
+
+```dart
+developer = {
+  "name"       : "Umar Anayat",
+  "role"       : "Software Developer | Flutter Mobile Engineer",
+  "location"   : "Lahore, Pakistan 🇵🇰",
+  "stack"      : ["Flutter", "Dart", "Firebase", "UI/UX", "REST APIs"],
+  "companies"  : ["Genetum", "Berisco"],
+  "focus"      : "Cross-platform apps that feel native & premium",
+  "status"     : "Open for Flutter / Mobile roles 🚀"
+};
+```
+
 </div>
 
-**Languages:** Dart, PHP, Python, SQL  
-**Frameworks:** Flutter, GetX, Riverpod, Provider  
-**Backend:** Firebase, Supabase, MySQL, REST APIs  
-**AI & Cloud:** OpenAI APIs, TensorFlow Lite, Cloud Functions  
-**Design:** Figma, Rive, Lottie, Adobe XD  
-**DevOps:** CI/CD, GitHub Actions, Fastlane, Play Store Deployment  
+I'm a **Flutter Developer** who ships polished Android & iOS apps with clean architecture, smooth motion, and production-ready UI.
+
+- 💼 Building products at **Genetum** (On-site) + **Berisco** (Remote)
+- 📱 Specializing in **Flutter · Dart · Firebase · REST APIs**
+- 🎨 Obsessed with **clean UX** and performance-first UI
+- 🌐 Also comfortable with **React / Next.js** when needed
+- 🔗 Portfolio → **[www.umaranayat.com](https://www.umaranayat.com)**
+
+<br/>
+<div align="center">
+  <img src="./assets/divider.png" alt="" width="70%" />
+</div>
 
 ---
 
-### 💼 Expertise  
-
-📱 **Application Development** — Android, iOS & Web  
-☁️ **Cloud-Integrated Mobile Systems** — Firebase, Supabase  
-🤖 **AI-Driven App Development** — Smart & Scalable Solutions  
-🧩 **Full-Stack Engineering** — API, Database, Automation  
-🎨 **UI/UX Excellence** — Motion Design, Pixel-Perfect Layouts  
-
----
-
-### 🚀 Projects I've Built  
-
-#### ✈️ **Flight Booking App**
-A next-gen flight management system offering real-time booking, tracking, and AI-based route suggestions.  
-Tech: *Flutter • Firebase • REST API • Live Data Sync*
-
-#### 🐾 **Pet Social**
-A social platform for pet lovers — enabling profiles, chats, posts, and breed recognition through ML.  
-Tech: *Flutter • Firebase • ML Vision • Cloud Functions*
-
-#### 🔮 **Tarot Reading App**
-A personalized tarot experience with animated card interactions and predictive AI recommendations.  
-Tech: *Flutter • Lottie • Firebase • AI Suggestions*
-
-#### 🔐 **Ntrix Security**
-Smart IoT-integrated security app with encrypted cloud control, motion alerts, and real-time monitoring.  
-Tech: *Flutter • Supabase • MQTT • Realtime Database*
-
-#### ☁️ **GoDrive / MegaDrive**
-A modern cloud storage platform for fast, encrypted uploads with AI-based file categorization.  
-Tech: *Flutter • Firebase Storage • Node.js • Cloud Sync*
-
-#### 🎓 **Visual Kids Learning**
-An interactive kids learning system with gamified lessons, animated UI, and real-time progress tracking.  
-Tech: *Flutter • Firebase • Motion Design*
-
-#### 🛒 **E-Commerce Platform**
-A full-featured marketplace with cart system, admin dashboard, and integrated payment gateway.  
-Tech: *Flutter • Firebase • Stripe API • GetX*
-
-#### 📖 **Quran Companion**
-AI-powered Quran app offering smart tafsir search, verse insights, and personalized recitation progress.  
-Tech: *Flutter • Firebase • OpenAI API*
-
----
-
-### 📊 GitHub Stats  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="" width="28" /> Tech Arsenal
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UmarAnayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarAnayat&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react,nextjs,firebase,supabase,mysql,nodejs,git,github,vscode,figma,postman&perline=7" alt="Tech Stack" />
+  <br/><br/>
+
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![UI/UX](https://img.shields.io/badge/UI%2FUX-55AFD2?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![REST](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=55AFD2)
+</div>
+
+<br/>
+<div align="center">
+  <img src="./assets/divider.png" alt="" width="70%" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="" width="28" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarAnayat&theme=github_dark" width="100%" alt="Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmarAnayat&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarAnayat&theme=github_dark" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmarAnayat&theme=github_dark" alt="Commits" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarAnayat&theme=radical&hide_border=true&background=0D1117&ring=55AFD2&fire=55AFD2&currStreakLabel=55AFD2&sideLabels=55AFD2&dates=8B949E" alt="Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmarAnayat&theme=github_dark&utcOffset=5" alt="Productive Time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📅 Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/55AFD2/UmarAnayat" width="100%" alt="Contribution Chart" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmarAnayat/UmarAnayat/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmarAnayat/UmarAnayat/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/UmarAnayat/UmarAnayat/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+<div align="center">
+  <img src="./assets/divider.png" alt="" width="70%" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="" width="28" /> Featured Projects
+
+<div align="center">
+
+| 🔥 Project | 📌 What I Built | 🧰 Stack |
+|:-----------|:----------------|:---------|
+| **Invoice Easy PK** | Invoice & billing mobile experience | Flutter · Firebase |
+| **QRMe** | QR-based product app | Flutter · REST APIs |
+| **PetHuld** | Pet care management app | Flutter · UI/UX |
+| **Back Aware** | Health / awareness mobile app | Flutter · Dart |
+| **GoDrive** | Ride / mobility experience | Flutter · APIs |
+| **Quran E Pak** | Islamic app with clean UI | Flutter · Firebase |
+| **Visual Kids** | Kids learning experience | Flutter · Design |
+| **Tarot** | Lifestyle content app | Flutter · Smooth UI |
+| **Power Fitness Hub** | Fitness tracking platform | Flutter · Firebase |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.umaranayat.com">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_See_Full_Portfolio-www.umaranayat.com-55AFD2?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="./assets/divider.png" alt="" width="70%" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="" width="28" /> What I Bring
+
+<div align="center">
+
+| | | |
+|:--:|:--:|:--:|
+| ⚡ **Fast Delivery** | 🎯 **Pixel-clean UI** | 🧩 **Clean Architecture** |
+| Flutter apps that ship | UX that feels premium | Code that scales |
+| 🔥 **Firebase Ready** | 📱 **Android + iOS** | 🧠 **Problem Solver** |
+| Auth, DB, Storage, FCM | One codebase, two stores | Features → production |
+
+</div>
+
+<br/>
+<div align="center">
+  <img src="./assets/divider.png" alt="" width="70%" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="" width="28" /> Let's Build Something
+
+<div align="center">
+
+### Open for **Flutter Developer** roles & freelance collaborations
+
+<br/>
+
+| Contact | Link |
+|:--------|:-----|
+| 🌐 **Website** | [www.umaranayat.com](https://www.umaranayat.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/umaranayat](https://linkedin.com/in/umaranayat) |
+| 📧 **Email** | [iumaranayat@gmail.com](mailto:iumaranayat@gmail.com) |
+| 📍 **Location** | Lahore, Pakistan |
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=UmarAnayat&label=Profile%20Views&color=55AFD2&style=for-the-badge" alt="Profile views" />
+
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarAnayat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</div>
 
----
+<img src="./assets/quote.png" alt="Quote" width="80%" />
 
-### 🏆 Achievements  
+<br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UmarAnayat&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</div>
+**⭐ From [Umar Anayat](https://github.com/UmarAnayat)** — if you like the vibe, drop a star on my repos.
 
----
-
-### 🌐 Connect with Me  
-
-💼 **Available for:**  
-→ Full-Time Flutter Developer Roles  
-→ Freelance App Projects  
-→ Open-Source Collaborations  
-→ Mentorship & Code Reviews  
-
-📬 **Email:** [geniusumar08@gmail.com](mailto:geniusumar08@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/umar-anayat](https://linkedin.com/in/umar-anayat)  
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:0ABEFF&height=120&section=footer"/>
 </div>
